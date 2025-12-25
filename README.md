@@ -1,9 +1,9 @@
 # Program-1-a
 ## C-Module 1
 ## EX_NO-01)a)-Datatypes-Operators
-### Date: 19-10-2025
-### Name: Anish D
-### Register Number:25010086
+### Date:10-09-2025
+### Name: Karthiga S
+### Register Number:25017584
 ## AIM:
 Write a C program to read a float value from the user and to display the same value.
 ## ALGORITHM:
@@ -31,9 +31,9 @@ Thus the program to read a float value from the user and to display the same val
 # Program-1-b
 ## C-Module 1
 ## EX_NO-01)b)-Conditional Statements
-### Date: 19-10-2025
-### Name: Anish D
-### Register Number:25010086
+### Date: 10-09-2025
+### Name: Karthiga S
+### Register Number:25017584
 ## AIM:
 Write a C program to read A values and check whether the value is greater than and equal to 100. 
 ## ALGORITHM:
@@ -69,9 +69,9 @@ has been executed successfully
 # Program-1-c
 ## C-Module 1
 ## EX_NO-01)c)-Operators & Expressions
-### Date: 19-10-2025
-### Name: Anish D
-### Register Number:25010086
+### Date: 10-09-2025
+### Name: Karthiga S
+### Register Number:25017584
 ## AIM:
 Write a program to find principle amount based on simple interest, time & rate of interest. 
 ## ALGORITHM:
@@ -112,9 +112,9 @@ Thus the program to find principle amount based on simple interest, time & rate 
 # Program-1-d
 ## C-Module 1
 ## EX_NO-01)d)-Conditional Statements
-### Date: 19-10-2025
-### Name: Anish D
-### Register Number:25010086
+### Date: 10-09-2025
+### Name: Karthiga S
+### Register Number:25017584
 ## AIM:
 Write a C program to read a, b values and check whether  a equal to b. 
 ## ALGORITHM:
@@ -149,9 +149,9 @@ Thus the program to read a, b values and check whether  a equal to b has been ex
 # Program-1-e
 ## C-Module 1
 ## EX_NO-01)e)-Datatypes & Operators
-### Date: 19-10-2025
-### Name: Anish D
-### Register Number:25010086
+### Date: 10-09-2025
+### Name: Karthiga S
+### Register Number:25017584
 ## AIM:
 Write a C program to find the ASCII value of a given character.
 ## ALGORITHM:
